@@ -10,7 +10,7 @@ discord: **Юки#1532**
 
 phone: **89892681000**
 
-![](https://vk.com/life_o_0)
+VK: (https://vk.com/life_o_0)
 
 
 I do not have experience in coding. But I want get to know coding. I want create a _site for myself_. I will sell soaps, teas, candles and another thimgs of **hand-made**. I am psychologist, I want use my site for **psychology** too. I like gat new knowledge.
@@ -18,7 +18,9 @@ I do not have experience in coding. But I want get to know coding. I want create
 **Skills:** ***git, html***.
 
 **Code example:** ```function multiply($a, $b) {
+
 return $a * $b;
+
 }```
 
 **Experience:**
