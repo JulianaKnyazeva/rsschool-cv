@@ -1,25 +1,25 @@
- #Interview
+ Interview
 
 ***Juliana Knyazeva***
 
-(https://vk.com/photo98887359_457254420?rev=1)
+![My photo](https://vk.com/photo98887359_457254420?rev=1)
 
-##mail: **life0435@yandex.ru**
+mail: **life0435@yandex.ru**
 
-##discord: **Юки#1532**
+discord: **Юки#1532**
 
-##phone: **89892681000**
+phone: **89892681000**
 
-##(https://vk.com/life_o_0)
+![](https://vk.com/life_o_0)
 
 
-#I do not have experience in coding. But I want get to know coding. I want create a _site for myself_. I will sell soaps, teas, candles and another thimgs of **hand-made**. I am psychologist, I want use my site for **psychology** too. I like gat new knowledge.
+I do not have experience in coding. But I want get to know coding. I want create a _site for myself_. I will sell soaps, teas, candles and another thimgs of **hand-made**. I am psychologist, I want use my site for **psychology** too. I like gat new knowledge.
 
 **Skills:** ***git, html***.
 
-**Code example:** '''function multiply($a, $b) {
+**Code example:** ```function multiply($a, $b) {
 return $a * $b;
-}'''
+}```
 
 **Experience:**
 
