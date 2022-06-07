@@ -15,24 +15,18 @@ VK: (https://vk.com/life_o_0)
 
 I do not have experience in coding. But I want get to know coding. I want create a _site for myself_. I will sell soaps, teas, candles and another thimgs of **hand-made**. I am psychologist, I want use my site for **psychology** too. I like gat new knowledge.
 
-**Skills:** ***git, html***.
-
-**Code example:** 
-
-```function multiply($a, $b) { <b>
-<b>
-return $a * $b; <b>
-<b>
-}```
-
 
 **Experience:**
 
+
 School in Novokubansk, 2015. The psychologist.
+
 
 School in Moscow, 2019. The psychologist.
 
+
 **Education:** 
+
 
 Armavir State Pedagogical Academy, 2011-2015. Psychology.
 
@@ -46,5 +40,16 @@ Russian - Native
 
 Ukrainian - Intermediate
 
+
 English - Intermediate 
 
+
+**Skills:** ***git, html***.
+
+**Code example:** 
+
+```function multiply($a, $b) { 
+
+return $a * $b; 
+
+}```
