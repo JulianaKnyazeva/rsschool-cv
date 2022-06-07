@@ -18,10 +18,16 @@ I do not have experience in coding. But I want get to know coding. I want create
 **Skills:** ***git, html***.
 
 **Code example:** ```function multiply($a, $b) {```
+
+
 ```    ```
+
 ```return $a * $b;```
+
 ```  ```
+
 ```}```
+
 
 **Experience:**
 
